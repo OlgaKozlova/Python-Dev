@@ -1,0 +1,52 @@
+{
+  "section": 13,
+  "title": "Python для бизнеса",
+  "themes": [
+    {
+      "theme": 1,
+      "title": "Бизнес, Python и новые задачи",
+      "lessons": [
+        "1. Что вас ждёт в этом спринте",
+        "2. Бизнес, Python и новые задачи"
+      ]
+    },
+    {
+      "theme": 2,
+      "title": "Google Cloud Platform",
+      "lessons": ["1. Google Cloud Platform: API и сервисный аккаунт"]
+    },
+    {
+      "theme": 3,
+      "title": "Google Sheets API",
+      "lessons": [
+        "1. Создаём гугл-таблицу. Авторизация и доступы",
+        "2. Создаём гугл-таблицу: практика",
+        "3. Работа с данными таблиц",
+        "4. Работа с данными таблиц: практика"
+      ]
+    },
+    {
+      "theme": 4,
+      "title": "Google Drive API",
+      "lessons": [
+        "1. Работа с объектами гугл-диска",
+        "2. Работа с объектами гугл-диска: практика"
+      ]
+    },
+    {
+      "theme": 5,
+      "title": "Рефакторинг",
+      "lessons": ["1. Собираем приложение"]
+    },
+    {
+      "theme": 6,
+      "title": "Google API и FastAPI",
+      "lessons": []
+    },
+    {
+      "theme": 7,
+      "title": "Финальный проект спринта: отчёт в Google Sheets для QRKot",
+      "lessons": []
+    }
+  ]
+}
