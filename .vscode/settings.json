@@ -1,0 +1,20 @@
+{
+  // Отключаем ВСЕ inline-подсказки (серый текст)
+  "editor.inlineSuggest.enabled": false,
+
+  // Отключаем автокомплит при наборе
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+
+  // Отключаем автоподсказки при вводе символов
+  "editor.suggestOnTriggerCharacters": false,
+
+  // Отключаем автопоказ списка
+  "editor.suggest.showWords": false,
+
+  // Cursor AI
+  "cursor.autocomplete.enabled": false
+}
