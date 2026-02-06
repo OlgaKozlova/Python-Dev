@@ -1,0 +1,2 @@
+DEBUG = True
+MULTIPLIER = 10
