@@ -9,7 +9,7 @@ class Solution:
         currentNode = head #1a
     
         while currentNode is not None:
-            nextNode = currentNode.next # сохраняем хвост
+            nextNode = currentNode.next.next # сохраняем хвост
             currentNode.next = prevNode # разворот
             prevNode = currentNode # смещаем раз
             currentNode = nextNode # смещаем два
